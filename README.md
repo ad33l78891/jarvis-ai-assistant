@@ -81,7 +81,7 @@ Planned screenshots:
 - Risk scoring dashboard
 
 ### Main Jarvis Interface
-![Main Jarvis Interface](Screenshots/main-gui.png)
+![Main Jarvis Interface](main-gui.png)
 ---
 
 ## Roadmap
