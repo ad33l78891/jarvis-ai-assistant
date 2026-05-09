@@ -80,6 +80,8 @@ Planned screenshots:
 - Threat history viewer
 - Risk scoring dashboard
 
+### Main Jarvis Interface
+![Main Jarvis Interface](Screenshots/main-gui.png)
 ---
 
 ## Roadmap
