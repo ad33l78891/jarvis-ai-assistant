@@ -86,6 +86,8 @@ Planned screenshots:
 ### Voice Interaction and Wake-Word Mode
 ![Voice Interaction and Wake-Word Mode](voice-mode.png)
 
+### Cybersecurity News Summary
+![Cybersecurity News Summary](cybersecurity-news.png)
 ---
 
 ## Roadmap
