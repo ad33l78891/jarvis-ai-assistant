@@ -82,6 +82,10 @@ Planned screenshots:
 
 ### Main Jarvis Interface
 ![Main Jarvis Interface](main-gui.png)
+
+### Voice Interaction and Wake-Word Mode
+![Voice Interaction and Wake-Word Mode](voice-mode.png)
+
 ---
 
 ## Roadmap
